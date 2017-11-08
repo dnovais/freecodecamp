@@ -1,2 +1,2 @@
 # freecodecamp
-Challenges from FreeCodeCamp
+Challenges from FreeCodeCamp.
